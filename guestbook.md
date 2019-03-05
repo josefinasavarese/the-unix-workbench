@@ -431,3 +431,5 @@
 - adam paz
 - Kacy Chisom
 - Katya Delikishkina
+- Sean Kross
+- Josefina
